@@ -1,0 +1,10 @@
+[user]
+  name = Christian Barth Roligheten
+  email = chrbarrol@gmail.com
+
+[github]
+  user = Catuna
+
+[core]
+  editor = vim
+  autocrlf = input
